@@ -15,6 +15,11 @@ The mafiles will be in the 'maFiles' folder, and the processed accounts in 'resu
 <h2>How to get mail's imap?</h2>
 You should google it, because each mail has its own imap and setup.
 
+<h1>Social media</h1>
+<a href="https://tedonstore.com/discord">Discord server</a> <br><br>
+<a href="https://t.me/tedonstore">Telegram</a> <br><br>
+<a href="https://vk.com/tedonstore">VK</a>
+
 <h1>Thanks</h1>
 <a href="https://github.com/geel9/SteamAuth">Steam Auth</a> <br><br>
 <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator">Steam Desktop Authenticator</a>
